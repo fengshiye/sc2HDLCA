@@ -45,15 +45,14 @@ To facilitate reference-based analysis of lung single-cell data,
 
 ------------------------------------------------------------------------
 
-## 📦 Installation sc2HDLCA or SCCAF-D
+## 📦 Installation sc2HDLCA
 Firstly, download the environment file and reference data [here](https://your-link-here.com).
-<!-->Firstly, download the environment file <a href="https://your-link-here.com">here</a>.<-->
 Secondly, install the environment.
 Example:
 ``` bash
-  mkdir sccafd_env
-  tar -xzf sccafd_env.tar.gz -C sccafd_env
-  cd sccafd_env
+  mkdir sc2hdlca_env
+  tar -xzf sc2hdlca_env.tar.gz -C sc2hdlca_env
+  cd sc2hdlca_env
   ./bin/conda-unpack
 ```
 
