@@ -25,22 +25,22 @@ To facilitate reference-based analysis of lung single-cell data,
 
 ## ✨ Key Features
 
--   **Reference-based annotation**\
+-   **Reference-based annotation**
     Annotate new datasets using HDLCA as a high-quality reference atlas
 
--   **Cross-modality deconvolution**\
+-   **Cross-modality deconvolution**
     Perform cell type deconvolution for:
 
-    -   Bulk RNA-seq\
+    -   Bulk RNA-seq
     -   Spatial transcriptomics
 
--   **Multi-omics integration**\
+-   **Multi-omics integration**
     Support integration of:
 
-    -   scRNA-seq\
+    -   scRNA-seq
     -   scATAC-seq (optional)
 
--   **Modular design**\
+-   **Modular design**
     Flexible pipeline where each component can be run independently
 
 ------------------------------------------------------------------------
@@ -79,8 +79,8 @@ run_scHDLCA(
 
 ## 📁 Input Data
 
--   `adata_query`: single-cell RNA-seq\
--   `adata_spatial`: spatial transcriptomics\
+-   `adata_query`: single-cell RNA-seq
+-   `adata_spatial`: spatial transcriptomics
 -   `bulk_path`: bulk RNA-seq
 
 ------------------------------------------------------------------------
