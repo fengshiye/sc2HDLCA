@@ -45,12 +45,16 @@ To facilitate reference-based analysis of lung single-cell data,
 
 ------------------------------------------------------------------------
 
-## 📦 Installation
-
+## 📦 Installation sc2HDLCA or SCCAF-D
+Firstly, download the environment file and reference data [here](https://your-link-here.com).
+# Firstly, download the environment file <a href="https://your-link-here.com">here</a>.
+Secondly, install the environment.
+Example:
 ``` bash
-git clone https://github.com/your-username/sc2hdlca.git
-cd sc2hdlca
-pip install -e .
+  mkdir sccafd_env
+  tar -xzf sccafd_env.tar.gz -C sccafd_env
+  cd sccafd_env
+  ./bin/conda-unpack
 ```
 
 ------------------------------------------------------------------------
@@ -78,15 +82,6 @@ run_scHDLCA(
 -   `adata_query`: single-cell RNA-seq\
 -   `adata_spatial`: spatial transcriptomics\
 -   `bulk_path`: bulk RNA-seq
-
-------------------------------------------------------------------------
-
-## ⚙️ Dependencies
-
--   Python ≥ 3.8\
--   scanpy\
--   anndata\
--   rpy2
 
 ------------------------------------------------------------------------
 
