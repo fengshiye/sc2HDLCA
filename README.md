@@ -81,6 +81,7 @@ run_scHDLCA(
 -   `adata_query`: single-cell RNA-seq
 -   `adata_spatial`: spatial transcriptomics
 -   `bulk_path`: bulk RNA-seq
+-   `adata_atac`: single-cell ATAC-seq
 
 ------------------------------------------------------------------------
 
