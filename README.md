@@ -46,8 +46,8 @@ To facilitate reference-based analysis of lung single-cell data,
 ------------------------------------------------------------------------
 
 ## 📦 Installation sc2HDLCA
-Firstly, download the environment file and reference data [here](https://your-link-here.com).
-Secondly, install the environment.
+Firstly, download the environment file and reference data [here](https://your-link-here.com).<br></br>
+Secondly, install the environment.<br></br>
 Example:
 ``` bash
   mkdir sc2hdlca_env
