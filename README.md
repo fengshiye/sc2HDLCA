@@ -14,11 +14,11 @@ modalities.
 To facilitate reference-based analysis of lung single-cell data,
 **sc2HDLCA** provides a flexible framework for:
 
--   🏷️ **Cell type annotation** of new datasets\
--   🔬 **Cell type deconvolution across modalities**\
+-   🏷️ **Cell type annotation** of new dataset
+-   🔬 **Cell type deconvolution across modalities**
 -   🔗 **Integration and analysis of multi-omics data**, including:
-    -   Single-cell RNA-seq\
-    -   Spatial transcriptomics\
+    -   Single-cell RNA-seq
+    -   Spatial transcriptomics
     -   Bulk RNA-seq
 
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ To facilitate reference-based analysis of lung single-cell data,
 
 ## 📦 Installation sc2HDLCA or SCCAF-D
 Firstly, download the environment file and reference data [here](https://your-link-here.com).
-# Firstly, download the environment file <a href="https://your-link-here.com">here</a>.
+<!-->Firstly, download the environment file <a href="https://your-link-here.com">here</a>.<-->
 Secondly, install the environment.
 Example:
 ``` bash
