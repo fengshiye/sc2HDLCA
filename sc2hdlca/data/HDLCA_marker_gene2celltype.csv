@@ -1,0 +1,712 @@
+Symbol,terms
+FCN3,General capillary endo
+SLC6A4,General capillary endo
+BTNL9,General capillary endo
+IL7R,General capillary endo
+APLNR,General capillary endo
+EDN1,General capillary endo
+GPIHBP1,General capillary endo
+S100A4,Capillary endo
+HPGD,Capillary endo
+RGCC,Capillary endo
+EDNRB,Aerocyte
+HPGD,Aerocyte
+CA4,Aerocyte
+SOSTDC1,Aerocyte
+IL1RL1,Aerocyte
+S100A4,Aerocyte
+HPGD,Prol capillary endo
+MKI67,Prol capillary endo
+TOP2A,Prol capillary endo
+TPX2,Prol capillary endo
+BGN,Aorta coronary arterial endo
+ELN,Aorta coronary arterial endo
+SULF1,Aorta coronary arterial endo
+GPIHBP1,Int arterial endo
+DKK2,Int arterial endo
+GJA5,Int arterial endo
+SERPINE2,Int arterial endo
+DKK2,Arterial endo
+GJA5,Arterial endo
+SERPINE2,Arterial endo
+HEY1,Arterial endo
+EFNB2,Arterial endo
+NOTCH4,Arterial endo
+CXCL12,Arterial endo
+BMX,Arterial endo
+ACKR1,Pulmonary venous endo
+PRSS23,Pulmonary venous endo
+CLU,Pulmonary venous endo
+HDAC9,Pulmonary venous endo
+CCL23,Pulmonary venous endo
+C7,Pulmonary venous endo
+ACKR1,Systemic venous endo
+COL15A1,Systemic venous endo
+ZNF385D,Systemic venous endo
+PLVAP,Systemic venous endo
+ABCB1,Systemic venous endo
+VWA1,Systemic venous endo
+PROX1,Lymphatic endo
+MMRN1,Lymphatic endo
+LYVE1,Lymphatic endo
+CCL21,Lymphatic endo
+PDPN,Lymphatic endo
+PTX3,Lymphatic endo
+MAF,Lymphatic endo
+FLT4,Lymphatic endo
+MRC1,Lymphatic endo
+SCG3,SCG3+ lymphatic end
+ABCA4,SCG3+ lymphatic end
+SBSPON,SCG3+ lymphatic end
+CCDC3,SCG3+ lymphatic end
+TCTN3,SCG3+ lymphatic end
+GJD3,SCG3+ lymphatic end
+NEO1,SCG3+ lymphatic end
+SCG3,Prol lymphatic endo
+ABCA4,Prol lymphatic endo
+SBSPON,Prol lymphatic endo
+CCDC3,Prol lymphatic endo
+TCTN3,Prol lymphatic endo
+GJD3,Prol lymphatic endo
+NEO1,Prol lymphatic endo
+MKI67,Prol lymphatic endo
+TPX2,Prol lymphatic endo
+BIRC5,Prol lymphatic endo
+CCNB1,Prol lymphatic endo
+CDK1,Prol lymphatic endo
+TOP2A,Prol lymphatic endo
+CLDN5+,Proliferating Endo
+PECAM,Proliferating Endo
+MKI67,Proliferating Endo
+TPX2,Proliferating Endo
+BIRC5,Proliferating Endo
+CCNB1,Proliferating Endo
+CDK1,Proliferating Endo
+TOP2A,Proliferating Endo
+ZNF385D,EndoMT
+ANGPT1,EndoMT
+DCN,EndoMT
+COL1A2,EndoMT
+ID2,SOX9+ tip
+CLDN6,SOX9+ tip
+SOX9,SOX9+ tip
+ETV5,SOX9+ tip
+PCNA,Int SOX9+ tip
+DTL,Int SOX9+ tip
+SOX9,Int SOX9+ tip
+TOP2A,Prol SOX9+ tip
+MKI67,Prol SOX9+ tip
+SOX9,Prol SOX9+ tip
+ID2,SOX2+ progenitor
+CLDN6,SOX2+ progenitor
+SOX2,SOX2+ progenitor
+PCNA,Int SOX2+ progenitor
+DTL,Int SOX2+ progenitor
+SOX2,Int SOX2+ progenitor
+TOP2A,Prol SOX2+ progenitor
+MKI67,Prol SOX2+ progenitor
+SOX2,Prol SOX2+ progenitor
+KRT5,TP63+ KRT5+ basal
+SCGB1A1,TP63+ KRT5+ basal
+SOX2,TP63+ KRT5+ basal
+KRT17,TP63+ KRT5+ basal
+S100A2,TP63+ KRT5+ basal
+TP63,TP63+ KRT5+ basal
+KRT5,KRT5+ SCGB1A1+ basal
+SCGB1A1,KRT5+ SCGB1A1+ basal
+SOX2,KRT5+ SCGB1A1+ basal
+KRT17,KRT5+ SCGB1A1+ basal
+S100A2,KRT5+ SCGB1A1+ basal
+KRT5,KRT5+ KRT14+ basal
+KRT14,KRT5+ KRT14+ basal
+KRT17,KRT5+ KRT14+ basal
+KRT5,Diff basal
+KRT17,Diff basal
+S100A2,Diff basal
+KRT15,Diff basal
+KRT5,Prol basal
+KRT17,Prol basal
+TOP2A,Prol basal
+MKI67,Prol basal
+TP63,TP63+ KRT5- basal
+KRT5,TP63+ KRT5- basal
+KRT17,KRT17+ KRT5- basal
+KRT5,KRT17+ KRT5- basal
+SFTPB,SFTPB+ KRT5- basal
+KRT5,SFTPB+ KRT5- basal
+SCGB3A2,SCGB3A2+ KRT5- basal
+KRT5,SCGB3A2+ KRT5- basal
+SFTPB,SCGB3A2+ KRT5- basal
+LY6D,Suprabasal
+PLAT,Suprabasal
+KRT17,Basal/Sec trans
+S100A2,Basal/Sec trans
+C15orf48,Basal/Sec trans
+FAM3D,Basal/Sec trans
+MUC5AC,Basal/Sec trans
+MUC5B,Basal/Sec trans
+PSCA,Hillock
+KRT80,Hillock
+CDKN1A,Hillock
+SPRR1B,Hillock
+SCEL,Hillock
+BPIFB1,SCGB1A1+ SCGB3A2-lo secretory
+LCN2,SCGB1A1+ SCGB3A2-lo secretory
+TSPAN8,SCGB1A1+ SCGB3A2-lo secretory
+SCGB1A1,RAS
+SFTPB,RAS
+SCGB3A2,RAS
+SFTPB,TRBS
+SCGB3A2,TRBS
+TOP2A,Prol TRBS
+MKI67,Prol TRBS
+SCGB3A2,AT0
+SFTPB,AT0
+SFTPC,AT0
+SERPING1,AT0
+SFTPC,AT2
+SFTPA2,AT2
+ABCA3,AT2
+TOP2A,Prol AT2
+MKI67,Prol AT2
+PCNA,Prol AT2
+AGER,Int alveolar progenitor
+SFTPC,Int alveolar progenitor
+AGER,AT1
+RTKN2,AT1
+MUC5AC,Goblet
+SPDEF,Goblet
+MUC5B,Goblet
+AGR2,Goblet
+VIM,SMG
+SOX9,SMG
+MIA,SMG
+SPDEF,Mucous
+MUC5B,Mucous
+TFF3,Mucous
+LTF,Serous
+LYZ,Serous
+DEUP1,Deuterosomal
+FOXN4,Deuterosomal
+CDC20B,Deuterosomal
+HES6,Deuterosomal
+FOXJ1,Ciliated
+RSPH1,Ciliated
+DNAH5,Ciliated
+CFAP299,Ciliated
+CDHR3,Ciliated
+SCGB1A1,SCGB1A1+ ciliated
+KLK11,SCGB1A1+ ciliated
+CYP2F1,SCGB1A1+ ciliated
+SFTPB,SFTPB+ ciliated
+SFTPA1,SFTPB+ ciliated
+SFTPD,SFTPB+ ciliated
+NAPSA,SFTPB+ ciliated
+PTPRC,Immune-recruiting ciliated
+CD68,Immune-recruiting ciliated
+C1QA,Immune-recruiting ciliated
+CD53,Immune-recruiting ciliated
+COL1A2,EMT-like ciliated
+DCN,EMT-like ciliated
+LUM,EMT-like ciliated
+FOXI1,Ionocyte
+ASCL3,Ionocyte
+CFTR,Ionocyte
+CEL,Ionocyte
+SCNN1B,Ionocyte
+BPIFA2,Ionocyte
+CLCNKB,Ionocyte
+ATP6V1G3,Ionocyte
+CFC1,GHRL+ NE
+NEUROD1,GHRL+ NE
+RFX6,GHRL+ NE
+GHRL,GHRL+ NE
+ZEB2,ZEB2+ PCSK1N-lo NE
+PCSK1N,ZEB2+ PCSK1N-lo NE
+ASCL1,ASCL1+ NOTCH1+ NE
+NOTCH1,ASCL1+ NOTCH1+ NE
+ASCL1,ASCL1+ GRP-lo NE
+GRP,ASCL1+ GRP-lo NE
+ASCL1,ASCL1+ GRP-hi NE
+GRP,ASCL1+ GRP-hi NE
+ASCL1,GRP+ ASCL1- NE
+GRP,GRP+ ASCL1- NE
+GRP,GRP+ DLK1+ NE
+DLK,GRP+ DLK1+ NE
+GRP,GRP+ NLGN1- NE
+NLGN1,GRP+ NLGN1- NE
+HBB,Definitive erythrocyte
+HBG2,Definitive erythrocyte
+ALAS2,Definitive erythrocyte
+HBG1,Definitive erythrocyte
+UCP2,Definitive reticulocyte
+MOSPD1,Definitive reticulocyte
+ACSL6,Definitive reticulocyte
+CHST2,Definitive reticulocyte
+RSAD2,Definitive reticulocyte
+ARG1,Definitive reticulocyte
+TSPO2,Definitive reticulocyte
+CTSE,Primitive erythrocyte
+MT1G,Primitive erythrocyte
+MT1E,Primitive erythrocyte
+BEX1,Primitive erythrocyte
+MAP1A,Primitive erythrocyte
+MT1F,Primitive erythrocyte
+SOD3,Primitive erythrocyte
+FDXR,Metabolic erythrocyte
+CDKN1A,Metabolic erythrocyte
+GDF15,Metabolic erythrocyte
+UCA1,Metabolic erythrocyte
+HMOX1,Metabolic erythrocyte
+HEMGN,Prol definitive erythroblast
+GATA1,Prol definitive erythroblast
+MKI67,Prol definitive erythroblast
+TOP2A,Prol definitive erythroblast
+CENPF,Prol definitive erythroblast
+CPEB4,Definitive erythroblast
+ATG4D,Definitive erythroblast
+RIPOR3,Definitive erythroblast
+XPO7,Definitive erythroblast
+TRAK2,Definitive erythroblast
+USP7,Definitive erythroblast
+LPIN2,Definitive erythroblast
+FHDC1,Definitive erythroblast
+CCR7,CD4+ Tn/Tcm
+LEF1,CD4+ Tn/Tcm
+SELL,CD4+ Tn/Tcm
+TCF7,CD4+ Tn/Tcm
+CD27,CD4+ Tn/Tcm
+CD28,CD4+ Tn/Tcm
+CCR7,CD4+ Tn/Tcm
+TCF7,CD4+ Tn/Tcm
+BACH2,CD4+ Tn/Tcm
+CD2,CD4+ Tem
+CCL5,CD4+ Tem
+ID2,CD4+ Tem
+STAT3,CD4+ Tr1
+IRF1,CD4+ Tr1
+BATF,CD4+ Tr1
+TGFB1,CD4+ Tr1
+PRDM1,CD4+ Tr1
+SAT1,CD4+ Tr1
+RUNX1,Th17-like
+RORA,Th17-like
+NEAT1,Th17-like
+IKZF1,Th17-like
+NFATC2,Th17-like
+NFATC3,Th17-like
+NFAT5,Th17-like
+CXCR4,CD8+ Tem
+CCL4,CD8+ Tem
+CCL5,CD8+ Tem
+DUSP2,CD8+ Tem
+TBX21,CD8+ Temra
+PRF1,CD8+ Temra
+CTSW,CD8+ Temra
+CX3CR1,CD8+ Temra
+FCGR3A,CD8+ Temra
+GZMA,CD8+ Temra
+GZMB,CD8+ Temra
+GZMH,CD8+ Temra
+KLRG1,CD8+ Temra
+FGFBP2,CD8+ Temra
+ZBTB16,MAIT
+KLRB1,MAIT
+SLC4A10,MAIT
+RORC,MAIT
+CCR6,MAIT
+NCR3,MAIT
+MKI67,Prol T
+CDK1,Prol T
+TOP2A,Prol T
+TYMS,Prol T
+NCAM1,ITGAL+ CD56+ NK
+ITGAL,ITGAL+ CD56+ NK
+NCAM1,IL12RB2+ CD56+ NK
+IL12RB2,IL12RB2+ CD56+ NK
+STAT4,IL12RB2+ CD56+ NK
+FYN,IL12RB2+ CD56+ NK
+FCGR3A,KLRF1+ CD16+ NK
+FGFBP2,KLRF1+ CD16+ NK
+KLRF1,KLRF1+ CD16+ NK
+GZMH,KLRF1+ CD16+ NK
+ANXA1,KLRF1+ CD16+ NK
+PRF1,KLRF1+ CD16+ NK
+FCGR3A,IL32+ CD16+ NK
+FGFBP2,IL32+ CD16+ NK
+IL32,IL32+ CD16+ NK
+PRF1,IL32+ CD16+ NK
+FCGR3A,AREG+ CD16+ NK
+FGFBP2,AREG+ CD16+ NK
+AREG,AREG+ CD16+ NK
+MT2A,AREG+ CD16+ NK
+CXCR4,AREG+ CD16+ NK
+PRF1,AREG+ CD16+ NK
+FCGR3A,CCL3+ CD16+ NK
+FGFBP2,CCL3+ CD16+ NK
+CCL3,CCL3+ CD16+ NK
+CCL4,CCL3+ CD16+ NK
+FCGR3A,FOS+ CD16+ NK
+FGFBP2,FOS+ CD16+ NK
+FOS,FOS+ CD16+ NK
+NR4A2,FOS+ CD16+ NK
+FCGR3A,DNAJB1+ CD16+ NK
+DNAJB1,DNAJB1+ CD16+ NK
+DNAJA1,DNAJB1+ CD16+ NK
+JUN,DNAJB1+ CD16+ NK
+NR4A1,DNAJB1+ CD16+ NK
+MKI67,Prol NK
+CDK1,Prol NK
+TOP2A,Prol NK
+TYMS,Prol NK
+CD19,pro-B
+IL7R,pro-B
+CD34,pro-B
+CD19,Large pre-B
+MS4A1,Large pre-B
+RAG1,Large pre-B
+IGLL5,Large pre-B
+VPREB1,Large pre-B
+CD19,Small pre-B
+RAG1,Small pre-B
+IGLL5,Small pre-B
+VPREB1,Small pre-B
+MME,Small pre-B
+SPIB,Small pre-B
+CD38,immature B
+MME,immature B
+CD19,immature B
+MS4A1,immature B
+IGHM,immature B
+LTB,immature B
+IGHD,immature B
+LIMS2,immature B
+TNFRSF18,immature B
+CD40,immature B
+CD19,mature B
+MS4A1,mature B
+IGHM,mature B
+IGHD,mature B
+IGHD,BACH2+ ZNF331+ naive B
+IGHM,BACH2+ ZNF331+ naive B
+CD19,BACH2+ ZNF331+ naive B
+MS4A1,BACH2+ ZNF331+ naive B
+FCER2,BACH2+ ZNF331+ naive B
+CD40,BACH2+ ZNF331+ naive B
+BACH2,BACH2+ ZNF331+ naive B
+ZNF331,BACH2+ ZNF331+ naive B
+IGHD,FCER2+ FCRLA+ naive B
+IGHM,FCER2+ FCRLA+ naive B
+CD19,FCER2+ FCRLA+ naive B
+MS4A1,FCER2+ FCRLA+ naive B
+FCER2,FCER2+ FCRLA+ naive B
+CD40,FCER2+ FCRLA+ naive B
+FCER2,FCER2+ FCRLA+ naive B
+FCRLA,FCER2+ FCRLA+ naive B
+MS4A1,Memory B
+CD40,Memory B
+CD27,Memory B
+CD19,Memory B
+AIM2,Memory B
+CD19,Cytotoxic B
+CCL5,Cytotoxic B
+MS4A1,Cytotoxic B
+CXCR4,Cytotoxic B
+GNLY,Cytotoxic B
+NKG7,Cytotoxic B
+CST3,Cytotoxic B
+IGHA1,plasma IgA
+IGHA2,plasma IgA
+CCR10,plasma IgA
+IGHM,plasma IgM
+IGHG1,plasma IgG
+IGHG3,plasma IgG
+IGHG2,plasma IgG
+CD27,Short-lived plasma
+CD38,Short-lived plasma
+TNFRSF17,Short-lived plasma
+CXCR4,Short-lived plasma
+HLA-DRA,Short-lived plasma
+HLA-DRB1,Short-lived plasma
+HLA-DPB1,Short-lived plasma
+HLA-DRB5,Short-lived plasma
+HLA-DOB,Short-lived plasma
+HLA-DPA1,Short-lived plasma
+S100A8,Classical monocyte
+S100A9,Classical monocyte
+CD14,Classical monocyte
+VCAN,Classical monocyte
+CDKN1C,Non-classical monocyte
+FCGR3A,Non-classical monocyte
+HES4,Non-classical monocyte
+SIGLEC1,Alveolar MΦ
+ABCG1,Alveolar MΦ
+FABP4,Alveolar MΦ
+PPARG,Alveolar MΦ
+MARCO,Alveolar MΦ
+ALOX5AP,Alveolar MΦ
+CD68,Alveolar MΦ
+FCER1G,Alveolar MΦ
+SIGLEC1,Prol alveolar MΦ
+ABCG1,Prol alveolar MΦ
+FABP4,Prol alveolar MΦ
+PPARG,Prol alveolar MΦ
+MARCO,Prol alveolar MΦ
+ALOX5AP,Prol alveolar MΦ
+CD68,Prol alveolar MΦ
+FCER1G,Prol alveolar MΦ
+MKI67,Prol alveolar MΦ
+CDK1,Prol alveolar MΦ
+TOP2A,Prol alveolar MΦ
+TYMS,Prol alveolar MΦ
+C1QA,Interstitial MΦ
+C1QB,Interstitial MΦ
+C1QC,Interstitial MΦ
+SLC40A1,Interstitial MΦ
+C3AR1,Interstitial MΦ
+NPL,Interstitial MΦ
+MKI67,Interstitial MΦ
+CDK1,Interstitial MΦ
+TOP2A,Interstitial MΦ
+TYMS,Interstitial MΦ
+C1QA,Prol interstitial MΦ
+C1QB,Prol interstitial MΦ
+C1QC,Prol interstitial MΦ
+SLC40A1,Prol interstitial MΦ
+C3AR1,Prol interstitial MΦ
+NPL,Prol interstitial MΦ
+CLEC4C,Plasmacytoid DC
+LILRA4,Plasmacytoid DC
+IRF7,Plasmacytoid DC
+PLD4,Plasmacytoid DC
+LILRA4,Plasmacytoid DC
+GZMB,Plasmacytoid DC
+IL3RA,Plasmacytoid DC
+FLT3,cDC1
+CLEC9A,cDC1
+ZBTB46,cDC1
+IDO1,cDC1
+CD1C,cDC2
+CD1E,cDC2
+FCGR2B,cDC2
+CLEC10A,cDC2
+HLA-DQA1,cDC2
+LAMP3,cDC3
+CCR7,cDC3
+FSCN1,cDC3
+CD1C,Prol DC
+CD1D,Prol DC
+CD1E,Prol DC
+MKI67,Prol DC
+CDK1,Prol DC
+TOP2A,Prol DC
+TCF21,Alveolar fibro
+WNT2,Alveolar fibro
+FGFR4,Alveolar fibro
+MEOX2,Alveolar fibro
+ADH1B,Alveolar fibro
+G0S2,Alveolar fibro
+ITGA8,Alveolar fibro
+FAM155A,Alveolar fibro
+SERPINF1,Adevntitial fibro
+MFAP5,Adevntitial fibro
+SCARA5,Adevntitial fibro
+SFRP2,Adevntitial fibro
+CRABP1,CRABP1+ adevntitial fibro
+IGFBP5,CRABP1+ adevntitial fibro
+CDON,CRABP1+ adevntitial fibro
+CD248,CRABP1+ adevntitial fibro
+FBLN2,CRABP1+ adevntitial fibro
+LAMC3,Pericyte
+TRPC6,Pericyte
+HIGD1B,Pericyte
+PDGFRB,Pericyte
+COX4I2,Pericyte
+RGS5,Pericyte
+ABCC9,Pericyte
+CSPG4,Pericyte
+LAMC3,Prol pericyte
+TRPC6,Prol pericyte
+HIGD1B,Prol pericyte
+PDGFRB,Prol pericyte
+COX4I2,Prol pericyte
+RGS5,Prol pericyte
+ABCC9,Prol pericyte
+CSPG4,Prol pericyte
+TOP2A,Prol pericyte
+MKI67,Prol pericyte
+CENPF,Prol pericyte
+CNN1,VSM
+ITGA7,VSM
+NTRK3,VSM
+ACTA2,VSM
+CAV1,VSM
+TAGLN,VSM
+MYL9,VSM
+MYL6,VSM
+C11orf96,VSM
+MYH11,VSM
+TPM2,VSM
+RERGL,VSM
+PAG1,Immature ASM
+SYT1,Immature ASM
+PLPPR4,Immature ASM
+MT2A,Immature ASM
+CXCL14,Immature ASM
+DES,ASM
+ACTA2,ASM
+LGR6,ASM
+MYH11,ASM
+MYLK,ASM
+HPSE2,ASM
+COL4A6,ASM
+PRUNE2,ASM
+NRP2,ASM
+SEMA3E,ASM
+PCDH7,ASM
+DOCK3,ASM
+GPM6A,ASM
+HS6ST3,ASM
+LGR6,ASM
+PRUNE2,ASM
+BCHE,ASM
+ACTA2,Prol ASM
+DES,Prol ASM
+HPSE2,Prol ASM
+MYH11,Prol ASM
+TOP2A,Prol ASM
+MKI67,Prol ASM
+CENPF,Prol ASM
+COL2A1,Mature chondrocyte
+HAPLN1,Mature chondrocyte
+ACAN,Mature chondrocyte
+CHAD,Mature chondrocyte
+COL9A3,Mature chondrocyte
+COL9A2,Mature chondrocyte
+SOX9,Immature chondrocyte
+COL9A3,Immature chondrocyte
+HMGA2,Immature chondrocyte
+COL2A1,Immature chondrocyte
+COL9A2,Immature chondrocyte
+KRT8,Mesothelial
+KRT18,Mesothelial
+KRT19,Mesothelial
+WT1,Mesothelial
+FREM2,Mesothelial
+UPK3B,Mesothelial
+MSLN,Mesothelial
+CALB2,Mesothelial
+HP,Mesothelial
+PRG4,Mesothelial
+ITLN1,Mesothelial
+PDPN,Mesothelial
+WT1,MSLN+ mesothelial
+MSLN,MSLN+ mesothelial
+KRT18,Prol mesothelial
+KRT19,Prol mesothelial
+FREM2,Prol mesothelial
+BDNF,Prol mesothelial
+MKI67,Prol mesothelial
+TOP2A,Prol mesothelial
+CENPF,Prol mesothelial
+TYMS,Early fibro
+HELLS,Early fibro
+PCLAF,Early fibro
+MCM4,Early fibro
+MCM3,Early fibro
+PCNA,Early fibro
+TOP2A,Prol fibro
+CENPF,Prol fibro
+MKI67,Prol fibro
+ITGBL1,Myofibroblast
+ASPN,Myofibroblast
+TSPAN8,Myofibroblast
+LMOD1,Myofibroblast
+NALCN,Myofibroblast
+WISP2,Myofibroblast
+F2R,Myofibroblast
+WIF1,Myofibroblast
+CCDC68,Myofibroblast
+CHRM2,Myofibroblast
+AC022639,Neural crest
+1,Neural crest
+RFX4,Neural crest
+TTYH1,Neural crest
+PRTG,Neural crest
+NES,Neural crest
+PAX3,Neural crest
+DRAXIN,Neural crest
+MKI67,Prol neural crest
+TPX2,Prol neural crest
+AC022639,Prol neural crest
+1,Prol neural crest
+RFX4,Prol neural crest
+TTYH1,Prol neural crest
+PRTG,Prol neural crest
+NES,Prol neural crest
+PAX3,Prol neural crest
+DRAXIN,Prol neural crest
+PTPRZ1,Schwann progenitor
+GAS7,Schwann progenitor
+FXYD1,Schwann progenitor
+LRRTM4,Schwann progenitor
+XKR4,Schwann progenitor
+ANXA2,Schwann progenitor
+CDH19,Prol schwann progenitor
+MPZ,Prol schwann progenitor
+PLP1,Prol schwann progenitor
+TOP2A,Prol schwann progenitor
+MKI67,Prol schwann progenitor
+PCNA,Prol schwann progenitor
+PTPRZ1,Transitional schwann progenitor
+GAS7,Transitional schwann progenitor
+FXYD1,Transitional schwann progenitor
+LRRTM4,Transitional schwann progenitor
+XKR4,Transitional schwann progenitor
+ANXA2,Transitional schwann progenitor
+SOX10,Migratory schwann progenitor
+S100B,Migratory schwann progenitor
+PLP1,Migratory schwann progenitor
+ERBB3,Migratory schwann progenitor
+FN1,Migratory schwann progenitor
+CCBE1,Migratory schwann progenitor
+SULF1,Migratory schwann progenitor
+CDH11,Migratory schwann progenitor
+TBX5,Migratory schwann progenitor
+EDNRA,Migratory schwann progenitor
+SOX2,Migratory schwann progenitor
+low,Migratory schwann progenitor
+TOP2A,Prol migratory schwann progenitor
+MKI67,Prol migratory schwann progenitor
+SOX10,Prol migratory schwann progenitor
+S100B,Prol migratory schwann progenitor
+PLP1,Prol migratory schwann progenitor
+ERBB3,Prol migratory schwann progenitor
+FN1,Prol migratory schwann progenitor
+CCBE1,Prol migratory schwann progenitor
+SULF1,Prol migratory schwann progenitor
+CDH11,Prol migratory schwann progenitor
+TBX5,Prol migratory schwann progenitor
+EDNRA,Prol migratory schwann progenitor
+SOX2,Prol migratory schwann progenitor
+low,Prol migratory schwann progenitor
+ETV1,Pre-neuronal
+VWDE,Pre-neuronal
+DLL3,Pre-neuronal
+CCSER1,Pre-neuronal
+PTPRZ1,Pre-neuronal
+PHOX2B,Neuronal
+PRPH,Neuronal
+NRG1,Neuronal
+TUBB3,Neuronal
+STMN2,Neuronal
+RTN1,Neuronal
+PCSK1N,Neuronal
+STMN4,Neuronal
+MKI67,Prol neuronal
+TOP2A,Prol neuronal
+STMN2,Prol neuronal
+RTN1,Prol neuronal
+PCSK1N,Prol neuronal
+STMN4,Prol neuronal
+GPM6A,GPM6A+ neuronal

@@ -6,11 +6,15 @@ def run_cellmarkeraccordion(
     from rpy2 import robjects
     import anndata2ri
     import scanpy as sc
+    from importlib import resources
+    with resources.path("sc2hdlca.data", "HDLCA_marker_gene2celltype.csv") as p:
+        marker_path = str(p)
     adata_query_copy = adata_query.copy()
     scexp_sc = anndata2ri._py2r.py2rpy_anndata(adata_query_copy)
     robjects.r.assign("scexp_sc", scexp_sc)
     robjects.r.assign("cluster_key", cluster_key)
     robjects.r.assign("results_path", results_path)
+    robjects.r.assign("marker_path", marker_path)
     robjects.r("""
             suppressPackageStartupMessages({
                 library(cellmarkeraccordion)
@@ -25,7 +29,7 @@ def run_cellmarkeraccordion(
             # Create Seurat Object
             data <- CreateSeuratObject(counts = counts_sc,meta.data=meta_sc,min.cells = 3, min.features = 200)
             ##
-            HDLCA_markers=read.csv('/home/ubuntu/data/fengshuo/project/devlung_2025-10-30/HDLCA_marker_gene2celltype.csv')#read cell marker table
+            HDLCA_markers = read.csv(marker_path)#read cell marker table
             retinal_data <- accordion_custom(
                 data,
                 annotation_resolution = cluster_key,
