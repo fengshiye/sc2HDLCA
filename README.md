@@ -73,37 +73,46 @@ run_scHDLCA(
     results_path="./results"
 )
 ```
-## Parameters:
--   Cell annotation label transfer：
-    adata_query：Single-cell RNA-seq dataset used as query
-    run_label_transfer Whether to perform label transfer from reference to query data
+## Parameters
 
--   Cell annotation:
-    adata_query：Single-cell RNA-seq dataset used as query
-    run_annotation: Whether to perform cell type annotation
+### Cell Annotation (Label Transfer)
+- **adata_query**: Single-cell RNA-seq dataset used as query  
+- **run_label_transfer**: Whether to perform label transfer from reference to query data  
 
--   Bulk data deconvolution:
-    bulk_path: Path to bulk RNA-seq data (required if `deconvolution_type="bulk"`)
-    R_home: Path to Rscript executable used for bulk deconvolution
-    python_home: Path to Python executable used for bulk deconvolution (if required)
+---
 
--   Spatial data deconvolution:
-    adata_spatial: Spatial transcriptomics dataset
-    cluster_key: Column name in `adata_spatial.obs` representing cluster assignments
-    deconvolution_type: 
-    Type of cell type deconvolution to perform:
-        - "bulk": bulk RNA-based deconvolution (via R)
-        - "spatial": spatial-based deconvolution
-        - None: skip deconvolution
+### Cell Annotation (De novo)
+- **adata_query**: Single-cell RNA-seq dataset used as query  
+- **run_annotation**: Whether to perform cell type annotation  
 
--   scATAC integration:
-    adata_atac: Single-cell ATAC-seq dataset
-    at_sc: Whether to integrate scATAC-seq data with reference data
+---
 
--   Projection:
-    run_projection: Whether to project query data into reference space
-    adata_query: Single-cell RNA-seq dataset used as query
+### Bulk Data Deconvolution
+- **bulk_path**: Path to bulk RNA-seq data (required if `deconvolution_type="bulk"`)  
+- **R_home**: Path to Rscript executable used for bulk deconvolution  
+- **python_home**: Path to Python executable used for bulk deconvolution (if required)  
 
+---
+
+### Spatial Data Deconvolution
+- **adata_spatial**: Spatial transcriptomics dataset  
+- **cluster_key**: Column name in `adata_spatial.obs` representing cluster assignments  
+- **deconvolution_type**: Type of deconvolution to perform:
+  - `"bulk"`: bulk RNA-based deconvolution (via R)  
+  - `"spatial"`: spatial-based deconvolution  
+  - `None`: skip deconvolution  
+
+---
+
+### scATAC Integration
+- **adata_atac**: Single-cell ATAC-seq dataset  
+- **at_sc**: Whether to integrate scATAC-seq data with reference data  
+
+---
+
+### Projection
+- **adata_query**: Single-cell RNA-seq dataset used as query  
+- **run_projection**: Whether to project query data into reference space  
 ------------------------------------------------------------------------
 
 ## 📁 Input Data
