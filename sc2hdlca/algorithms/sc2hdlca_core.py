@@ -27,7 +27,7 @@ def run_scHDLCA(
     adata_spatial=None,
     adata_query=None,
     adata_atac=None,
-    labels_key=None,
+    labels_key='CellType_HDLCA',
     cluster_key=None,
     n_cell=50,
     deconvolution_type=None,
