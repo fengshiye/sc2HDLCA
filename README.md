@@ -75,13 +75,13 @@ run_scHDLCA(
 ```
 ## Parameters
 
-### Cell Annotation (Label Transfer)
+### Cell Annotation
 - **adata_query**: Single-cell RNA-seq dataset used as query  
 - **run_label_transfer**: Whether to perform label transfer from reference to query data  
 
 ---
 
-### Cell Annotation (De novo)
+### Cell Annotation
 - **adata_query**: Single-cell RNA-seq dataset used as query  
 - **run_annotation**: Whether to perform cell type annotation  
 
